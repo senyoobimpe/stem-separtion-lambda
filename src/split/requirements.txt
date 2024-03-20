@@ -1,0 +1,10 @@
+demucs 
+boto3
+torchaudio
+torch 
+pydantic
+pydantic-settings
+tomlkit
+diffq 
+sox
+soundfile
